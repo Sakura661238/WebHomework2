@@ -130,11 +130,12 @@ a:active {
       color:rgb(0, 0, 0);
       text-decoration: underline;
 }
-/* left-rignt yellow border*/
+/* left-rignt green border*/
 .green-border-container {
     margin:0 auto;
     border-left: 20px solid #7cab86;  
     border-right: 20px solid #7cab86; 
     background: transparent;  
     box-sizing: border-box;
+
 }
